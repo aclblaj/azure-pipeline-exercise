@@ -1,0 +1,15 @@
+{
+	"name": "adf-constantin-a",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e4077b4-ce4e-4ef7-8dd5-cc1b69534f26",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
